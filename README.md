@@ -1,15 +1,22 @@
-# Week 01 C# Programming Exercises
+# C# Programming Assignments
 
-This folder contains five beginner C# exercises for Week 1:
+This repository contains the beginner C# assignments for Week 1 and the Week 2 journal project.
 
-1. Variables, Input, and Output
-2. Conditionals
-3. Loops
-4. Lists
-5. Functions
+## Week 1
 
-Run each project individually with:
+The Week 1 project is in the folder:
+
+- [Week01CSharpExercises](Week01CSharpExercises)
+
+## Week 2
+
+The Week 2 journal project is in the folder:
+
+- [week02/JournalProgram](week02/JournalProgram)
+
+Run the journal program with:
 
 ```powershell
-dotnet run --project .\Exercise01_VariablesInputOutput\Exercise01_VariablesInputOutput.csproj
+cd .\week02\JournalProgram
+dotnet run
 ```

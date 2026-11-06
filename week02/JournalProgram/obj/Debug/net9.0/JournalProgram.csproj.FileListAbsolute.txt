@@ -1,0 +1,15 @@
+D:\BYU\week02\JournalProgram\bin\Debug\net9.0\JournalProgram.exe
+D:\BYU\week02\JournalProgram\bin\Debug\net9.0\JournalProgram.deps.json
+D:\BYU\week02\JournalProgram\bin\Debug\net9.0\JournalProgram.runtimeconfig.json
+D:\BYU\week02\JournalProgram\bin\Debug\net9.0\JournalProgram.dll
+D:\BYU\week02\JournalProgram\bin\Debug\net9.0\JournalProgram.pdb
+D:\BYU\week02\JournalProgram\obj\Debug\net9.0\JournalProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYU\week02\JournalProgram\obj\Debug\net9.0\JournalProgram.AssemblyInfoInputs.cache
+D:\BYU\week02\JournalProgram\obj\Debug\net9.0\JournalProgram.AssemblyInfo.cs
+D:\BYU\week02\JournalProgram\obj\Debug\net9.0\JournalProgram.csproj.CoreCompileInputs.cache
+D:\BYU\week02\JournalProgram\obj\Debug\net9.0\JournalProgram.sourcelink.json
+D:\BYU\week02\JournalProgram\obj\Debug\net9.0\JournalProgram.dll
+D:\BYU\week02\JournalProgram\obj\Debug\net9.0\refint\JournalProgram.dll
+D:\BYU\week02\JournalProgram\obj\Debug\net9.0\JournalProgram.pdb
+D:\BYU\week02\JournalProgram\obj\Debug\net9.0\JournalProgram.genruntimeconfig.cache
+D:\BYU\week02\JournalProgram\obj\Debug\net9.0\ref\JournalProgram.dll
