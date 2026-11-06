@@ -1,0 +1,14 @@
+D:\BYU\Week01CSharpExercises\Exercise03_Loops\bin\Debug\net9.0\Exercise03_Loops.exe
+D:\BYU\Week01CSharpExercises\Exercise03_Loops\bin\Debug\net9.0\Exercise03_Loops.deps.json
+D:\BYU\Week01CSharpExercises\Exercise03_Loops\bin\Debug\net9.0\Exercise03_Loops.runtimeconfig.json
+D:\BYU\Week01CSharpExercises\Exercise03_Loops\bin\Debug\net9.0\Exercise03_Loops.dll
+D:\BYU\Week01CSharpExercises\Exercise03_Loops\bin\Debug\net9.0\Exercise03_Loops.pdb
+D:\BYU\Week01CSharpExercises\Exercise03_Loops\obj\Debug\net9.0\Exercise03_Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYU\Week01CSharpExercises\Exercise03_Loops\obj\Debug\net9.0\Exercise03_Loops.AssemblyInfoInputs.cache
+D:\BYU\Week01CSharpExercises\Exercise03_Loops\obj\Debug\net9.0\Exercise03_Loops.AssemblyInfo.cs
+D:\BYU\Week01CSharpExercises\Exercise03_Loops\obj\Debug\net9.0\Exercise03_Loops.csproj.CoreCompileInputs.cache
+D:\BYU\Week01CSharpExercises\Exercise03_Loops\obj\Debug\net9.0\Exercise03_Loops.dll
+D:\BYU\Week01CSharpExercises\Exercise03_Loops\obj\Debug\net9.0\refint\Exercise03_Loops.dll
+D:\BYU\Week01CSharpExercises\Exercise03_Loops\obj\Debug\net9.0\Exercise03_Loops.pdb
+D:\BYU\Week01CSharpExercises\Exercise03_Loops\obj\Debug\net9.0\Exercise03_Loops.genruntimeconfig.cache
+D:\BYU\Week01CSharpExercises\Exercise03_Loops\obj\Debug\net9.0\ref\Exercise03_Loops.dll

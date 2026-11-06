@@ -1,0 +1,14 @@
+D:\BYU\Week01CSharpExercises\Exercise04_Lists\bin\Debug\net9.0\Exercise04_Lists.exe
+D:\BYU\Week01CSharpExercises\Exercise04_Lists\bin\Debug\net9.0\Exercise04_Lists.deps.json
+D:\BYU\Week01CSharpExercises\Exercise04_Lists\bin\Debug\net9.0\Exercise04_Lists.runtimeconfig.json
+D:\BYU\Week01CSharpExercises\Exercise04_Lists\bin\Debug\net9.0\Exercise04_Lists.dll
+D:\BYU\Week01CSharpExercises\Exercise04_Lists\bin\Debug\net9.0\Exercise04_Lists.pdb
+D:\BYU\Week01CSharpExercises\Exercise04_Lists\obj\Debug\net9.0\Exercise04_Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYU\Week01CSharpExercises\Exercise04_Lists\obj\Debug\net9.0\Exercise04_Lists.AssemblyInfoInputs.cache
+D:\BYU\Week01CSharpExercises\Exercise04_Lists\obj\Debug\net9.0\Exercise04_Lists.AssemblyInfo.cs
+D:\BYU\Week01CSharpExercises\Exercise04_Lists\obj\Debug\net9.0\Exercise04_Lists.csproj.CoreCompileInputs.cache
+D:\BYU\Week01CSharpExercises\Exercise04_Lists\obj\Debug\net9.0\Exercise04_Lists.dll
+D:\BYU\Week01CSharpExercises\Exercise04_Lists\obj\Debug\net9.0\refint\Exercise04_Lists.dll
+D:\BYU\Week01CSharpExercises\Exercise04_Lists\obj\Debug\net9.0\Exercise04_Lists.pdb
+D:\BYU\Week01CSharpExercises\Exercise04_Lists\obj\Debug\net9.0\Exercise04_Lists.genruntimeconfig.cache
+D:\BYU\Week01CSharpExercises\Exercise04_Lists\obj\Debug\net9.0\ref\Exercise04_Lists.dll

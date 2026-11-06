@@ -1,0 +1,14 @@
+D:\BYU\Week01CSharpExercises\Exercise02_Conditionals\bin\Debug\net9.0\Exercise02_Conditionals.exe
+D:\BYU\Week01CSharpExercises\Exercise02_Conditionals\bin\Debug\net9.0\Exercise02_Conditionals.deps.json
+D:\BYU\Week01CSharpExercises\Exercise02_Conditionals\bin\Debug\net9.0\Exercise02_Conditionals.runtimeconfig.json
+D:\BYU\Week01CSharpExercises\Exercise02_Conditionals\bin\Debug\net9.0\Exercise02_Conditionals.dll
+D:\BYU\Week01CSharpExercises\Exercise02_Conditionals\bin\Debug\net9.0\Exercise02_Conditionals.pdb
+D:\BYU\Week01CSharpExercises\Exercise02_Conditionals\obj\Debug\net9.0\Exercise02_Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYU\Week01CSharpExercises\Exercise02_Conditionals\obj\Debug\net9.0\Exercise02_Conditionals.AssemblyInfoInputs.cache
+D:\BYU\Week01CSharpExercises\Exercise02_Conditionals\obj\Debug\net9.0\Exercise02_Conditionals.AssemblyInfo.cs
+D:\BYU\Week01CSharpExercises\Exercise02_Conditionals\obj\Debug\net9.0\Exercise02_Conditionals.csproj.CoreCompileInputs.cache
+D:\BYU\Week01CSharpExercises\Exercise02_Conditionals\obj\Debug\net9.0\Exercise02_Conditionals.dll
+D:\BYU\Week01CSharpExercises\Exercise02_Conditionals\obj\Debug\net9.0\refint\Exercise02_Conditionals.dll
+D:\BYU\Week01CSharpExercises\Exercise02_Conditionals\obj\Debug\net9.0\Exercise02_Conditionals.pdb
+D:\BYU\Week01CSharpExercises\Exercise02_Conditionals\obj\Debug\net9.0\Exercise02_Conditionals.genruntimeconfig.cache
+D:\BYU\Week01CSharpExercises\Exercise02_Conditionals\obj\Debug\net9.0\ref\Exercise02_Conditionals.dll

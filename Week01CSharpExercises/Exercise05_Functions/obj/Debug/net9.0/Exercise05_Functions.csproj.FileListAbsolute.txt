@@ -1,0 +1,14 @@
+D:\BYU\Week01CSharpExercises\Exercise05_Functions\obj\Debug\net9.0\Exercise05_Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYU\Week01CSharpExercises\Exercise05_Functions\obj\Debug\net9.0\Exercise05_Functions.AssemblyInfoInputs.cache
+D:\BYU\Week01CSharpExercises\Exercise05_Functions\obj\Debug\net9.0\Exercise05_Functions.AssemblyInfo.cs
+D:\BYU\Week01CSharpExercises\Exercise05_Functions\obj\Debug\net9.0\Exercise05_Functions.csproj.CoreCompileInputs.cache
+D:\BYU\Week01CSharpExercises\Exercise05_Functions\bin\Debug\net9.0\Exercise05_Functions.exe
+D:\BYU\Week01CSharpExercises\Exercise05_Functions\bin\Debug\net9.0\Exercise05_Functions.deps.json
+D:\BYU\Week01CSharpExercises\Exercise05_Functions\bin\Debug\net9.0\Exercise05_Functions.runtimeconfig.json
+D:\BYU\Week01CSharpExercises\Exercise05_Functions\bin\Debug\net9.0\Exercise05_Functions.dll
+D:\BYU\Week01CSharpExercises\Exercise05_Functions\bin\Debug\net9.0\Exercise05_Functions.pdb
+D:\BYU\Week01CSharpExercises\Exercise05_Functions\obj\Debug\net9.0\Exercise05_Functions.dll
+D:\BYU\Week01CSharpExercises\Exercise05_Functions\obj\Debug\net9.0\refint\Exercise05_Functions.dll
+D:\BYU\Week01CSharpExercises\Exercise05_Functions\obj\Debug\net9.0\Exercise05_Functions.pdb
+D:\BYU\Week01CSharpExercises\Exercise05_Functions\obj\Debug\net9.0\Exercise05_Functions.genruntimeconfig.cache
+D:\BYU\Week01CSharpExercises\Exercise05_Functions\obj\Debug\net9.0\ref\Exercise05_Functions.dll

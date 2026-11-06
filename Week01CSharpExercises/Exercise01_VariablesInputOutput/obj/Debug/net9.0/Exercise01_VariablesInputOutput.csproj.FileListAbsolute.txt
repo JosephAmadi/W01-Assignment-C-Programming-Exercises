@@ -1,0 +1,14 @@
+D:\BYU\Week01CSharpExercises\Exercise01_VariablesInputOutput\bin\Debug\net9.0\Exercise01_VariablesInputOutput.exe
+D:\BYU\Week01CSharpExercises\Exercise01_VariablesInputOutput\bin\Debug\net9.0\Exercise01_VariablesInputOutput.deps.json
+D:\BYU\Week01CSharpExercises\Exercise01_VariablesInputOutput\bin\Debug\net9.0\Exercise01_VariablesInputOutput.runtimeconfig.json
+D:\BYU\Week01CSharpExercises\Exercise01_VariablesInputOutput\bin\Debug\net9.0\Exercise01_VariablesInputOutput.dll
+D:\BYU\Week01CSharpExercises\Exercise01_VariablesInputOutput\bin\Debug\net9.0\Exercise01_VariablesInputOutput.pdb
+D:\BYU\Week01CSharpExercises\Exercise01_VariablesInputOutput\obj\Debug\net9.0\Exercise01_VariablesInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYU\Week01CSharpExercises\Exercise01_VariablesInputOutput\obj\Debug\net9.0\Exercise01_VariablesInputOutput.AssemblyInfoInputs.cache
+D:\BYU\Week01CSharpExercises\Exercise01_VariablesInputOutput\obj\Debug\net9.0\Exercise01_VariablesInputOutput.AssemblyInfo.cs
+D:\BYU\Week01CSharpExercises\Exercise01_VariablesInputOutput\obj\Debug\net9.0\Exercise01_VariablesInputOutput.csproj.CoreCompileInputs.cache
+D:\BYU\Week01CSharpExercises\Exercise01_VariablesInputOutput\obj\Debug\net9.0\Exercise01_VariablesInputOutput.dll
+D:\BYU\Week01CSharpExercises\Exercise01_VariablesInputOutput\obj\Debug\net9.0\refint\Exercise01_VariablesInputOutput.dll
+D:\BYU\Week01CSharpExercises\Exercise01_VariablesInputOutput\obj\Debug\net9.0\Exercise01_VariablesInputOutput.pdb
+D:\BYU\Week01CSharpExercises\Exercise01_VariablesInputOutput\obj\Debug\net9.0\Exercise01_VariablesInputOutput.genruntimeconfig.cache
+D:\BYU\Week01CSharpExercises\Exercise01_VariablesInputOutput\obj\Debug\net9.0\ref\Exercise01_VariablesInputOutput.dll
